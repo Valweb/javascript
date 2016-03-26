@@ -1,0 +1,19 @@
+#container{
+height: 550px;
+width: 670px;
+margin-left:50px;
+margin-top:20px;
+background-color:#ebedcc;
+padding-top: 10px;
+padding-bottom:10px;
+padding-left:20px;
+box-shadow: 10px 10px 5px #888888;
+border-radius: 7px;
+}
+body {
+                
+  font-family: "Lucida Sans Unicode", 
+               "Lucida Grande", 
+               sans-serif;
+  padding-left:40px;			   
+}
